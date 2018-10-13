@@ -10,6 +10,7 @@ while($a < $x){
     $c = $a;
     $a = $b++;
     $b = $c;
+    break;           
 }
 ?>
 
